@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Build
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais
+.env
